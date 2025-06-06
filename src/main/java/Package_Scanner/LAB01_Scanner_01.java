@@ -4,9 +4,15 @@ import java.util.Scanner;
 
 public class LAB01_Scanner_01 {
 
+    static int num1;
+    static int num2;
+    static int sum;
+     static LAB02_Scanner02 scan2 = new LAB02_Scanner02();
+
 
     public static void main(String[] args) {
         sum();
+       scan2.multi();
 
 
     }
@@ -14,10 +20,10 @@ public class LAB01_Scanner_01 {
     {
         Scanner scan = new Scanner(System.in);
         System.out.println("enter the 1st number");
-        int num1 = scan.nextInt();
+        num1 = scan.nextInt();
         System.out.println("enter the 2nd number");
-        int num2 = scan.nextInt();
-        int sum = num1+num2;
+        num2 = scan.nextInt();
+        sum = num1+num2;
         System.out.println(sum);
 
     }
