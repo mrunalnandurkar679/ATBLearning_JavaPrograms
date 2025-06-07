@@ -9,6 +9,7 @@ public class LAB03_CalculatorMain_03 {
         System.out.println(cal.add(12,13));
         System.out.println(cal.substraction(12,13));
         System.out.println("show last operation----" + cal.getLastOperation());
+        System.out.println(cal.division(14, 0));
 
 
     }
