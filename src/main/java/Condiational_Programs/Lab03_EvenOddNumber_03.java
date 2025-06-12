@@ -1,6 +1,9 @@
 package Condiational_Programs;
 
-public class Lab03_EvenOddNumber_03 extends LAB02_VotingAge_02 {
+import java.util.Scanner;
+
+public class Lab03_EvenOddNumber_03  {
+    static Scanner scan = new Scanner(System.in);
     static int num = scan.nextInt();
     public static void main(String[] args) {
         Lab03_EvenOddNumber_03.Number();
