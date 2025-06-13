@@ -2,7 +2,7 @@ package Condiational_Programs;
 
 import java.util.Scanner;
 
-public class LAB01_PositiveNum_01 {
+public class LAB01_PositiveNum_Ex01 {
 
 
 
