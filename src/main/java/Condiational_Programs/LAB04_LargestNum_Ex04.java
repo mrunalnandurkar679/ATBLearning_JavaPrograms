@@ -25,6 +25,10 @@ public class LAB04_LargestNum_Ex04 {
         {
             System.out.println("num2 is teh largest number");
         }
+        if (num1 == num2 & num1 == num3)
+        {
+            System.out.println("All are the same numbers");
+        }
         else
         {
             System.out.println("num3 is the largest");
