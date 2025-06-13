@@ -22,10 +22,8 @@ public class Lab03_EvenOddNumber_Ex03 {
             throw new ArithmeticException("number can not be divisible");
         }
         else {
-            System.out.println("number is negative");
-        }
-        {
             System.out.println("number is even");
         }
+
     }
 }
