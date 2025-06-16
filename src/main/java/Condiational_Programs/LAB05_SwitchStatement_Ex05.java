@@ -5,43 +5,44 @@ import java.util.Scanner;
 public class LAB05_SwitchStatement_Ex05 {
 
     static Scanner scan = new Scanner(System.in);
-    static int day = scan.nextInt();
+
 
 
     public static void main(String[] args) {
-        day();
+        System.out.println(" enter the day of a week");
+        String day = scan.next();
+        week(day);
 
     }
-    public static void day()
+    public static void week(String day)
     {
        switch (day)
        {
-           case 1:
-               System.out.println("Today is Sunday");
-               break;
-           case 2:
+           case "mon":
                System.out.println("Today is Monday");
                break;
-
-           case 3:
-               System.out.println("Today is Tuesday");
+           case "tue":
+               System.out.println("Today is Tuesday ");
                break;
 
-           case 4:
+           case "wed":
                System.out.println("Today is Wednesday");
                break;
 
-           case 5:
+           case "Thur":
                System.out.println("Today is Thursday");
                break;
-           case 6:
+           case "Fri":
                System.out.println("Today is Friday");
                break;
-           case 7:
-               System.out.println("Today is Saturday");
+           case "Sat":
+               System.out.println("Today is a weekend");
+               break;
+           case "Sun":
+               System.out.println("Today is a weekend");
                break;
            default:
-               System.out.println("Today is weekend");
+               System.out.println("not falling under the days");
                break;
        }
 
