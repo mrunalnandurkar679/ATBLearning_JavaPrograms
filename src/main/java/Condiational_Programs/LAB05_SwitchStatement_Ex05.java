@@ -19,7 +19,6 @@ public class LAB05_SwitchStatement_Ex05 {
            case 1:
                System.out.println("Today is Sunday");
                break;
-
            case 2:
                System.out.println("Today is Monday");
                break;
