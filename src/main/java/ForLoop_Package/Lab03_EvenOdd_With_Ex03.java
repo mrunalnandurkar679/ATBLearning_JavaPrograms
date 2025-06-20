@@ -1,8 +1,6 @@
 package ForLoop_Package;
 
-import java.util.Scanner;
-
-public class Lab03_EvenOdd_WithBreal_Ex03 {
+public class Lab03_EvenOdd_With_Ex03 {
 
     public static void main(String[] args) {
        int i =0;

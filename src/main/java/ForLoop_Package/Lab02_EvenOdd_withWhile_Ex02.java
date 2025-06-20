@@ -1,6 +1,6 @@
 package ForLoop_Package;
 
-public class Lab02_EvenOdd_Ex01 {
+public class Lab02_EvenOdd_withWhile_Ex02 {
     public static void main(String[] args) {
         int i=1;
         evenOddcal(i);
