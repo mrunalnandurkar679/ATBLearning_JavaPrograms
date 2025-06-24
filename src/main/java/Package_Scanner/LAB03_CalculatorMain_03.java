@@ -11,13 +11,7 @@ public class LAB03_CalculatorMain_03 {
         System.out.println(cal.add(12,13));
         System.out.println(cal.substraction(12,13));
         System.out.println("show last operation----" + cal.getLastOperation());
-        try {
-            System.out.println(cal.division(14, 0));
-        }catch (ArithmeticException e)
-        {
-            System.out.println("Error: " + e.getMessage());
-        }
-        try {
+             try {
             cal.division(num1, 0);
         } catch (ArithmeticException e) {
             System.out.println("Error handling demonstration:");
