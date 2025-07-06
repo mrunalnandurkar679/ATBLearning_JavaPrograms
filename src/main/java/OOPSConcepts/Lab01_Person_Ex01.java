@@ -1,4 +1,4 @@
-package OOPS_Cunstructor;
+package OOPSConcepts;
 
 public class Lab01_Person_Ex01 {
     public static void main(String[] args) {
