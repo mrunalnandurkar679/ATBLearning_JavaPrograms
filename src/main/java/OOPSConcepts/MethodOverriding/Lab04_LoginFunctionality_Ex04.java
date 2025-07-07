@@ -1,4 +1,4 @@
-package OOPSConcepts_MethodOverriding;
+package OOPSConcepts.MethodOverriding;
 
 public class Lab04_LoginFunctionality_Ex04 {
     public static void main(String[] args) {

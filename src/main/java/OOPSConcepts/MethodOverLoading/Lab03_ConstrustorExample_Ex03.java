@@ -1,4 +1,4 @@
-package OOPSConcepts_MethodOverLoading;
+package OOPSConcepts.MethodOverLoading;
 
 import java.util.Scanner;
 

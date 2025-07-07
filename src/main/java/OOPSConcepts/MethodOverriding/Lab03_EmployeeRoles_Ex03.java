@@ -1,4 +1,4 @@
-package OOPSConcepts_MethodOverriding;
+package OOPSConcepts.MethodOverriding;
 
 public class Lab03_EmployeeRoles_Ex03 {
     public static void main(String[] args) {

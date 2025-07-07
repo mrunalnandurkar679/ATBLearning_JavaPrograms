@@ -1,4 +1,4 @@
-package OOPSConcepts_MethodOverriding;
+package OOPSConcepts.MethodOverriding;
 
 public class Lab01_AnimalOverride_Ex01 {
     public static void main(String[] args) {

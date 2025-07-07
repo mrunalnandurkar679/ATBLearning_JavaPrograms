@@ -1,4 +1,4 @@
-package OOPSConcepts_MethodOverLoading;
+package OOPSConcepts.MethodOverLoading;
 
 public class Lab01_Oops_MethodOverload_AddingNum {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package OOPSConcepts_MethodOverriding;
+package OOPSConcepts.MethodOverriding;
 
 public class Lab02_VehicleTart_Ex02 {
     public static void main(String[] args) {

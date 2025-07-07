@@ -1,4 +1,4 @@
-package OOPSConcepts_MethodOverLoading;
+package OOPSConcepts.MethodOverLoading;
 //Title: Find max using overloaded functions//
 //        Description:
 //        Create a class Utility with two methods named max():/
@@ -7,8 +7,6 @@ package OOPSConcepts_MethodOverLoading;
 //        max(double a, double b) returns the larger of two decimal values
 //        Add method calls in main() to compare different types.
 
-
-import com.sun.xml.internal.fastinfoset.tools.XML_SAX_StAX_FI;
 
 public class Lab02_FindMaxNumWithOverloadingFun {
     public static void main(String[] args) {

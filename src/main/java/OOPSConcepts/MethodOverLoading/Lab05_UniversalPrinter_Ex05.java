@@ -1,6 +1,5 @@
-package OOPSConcepts_MethodOverLoading;
+package OOPSConcepts.MethodOverLoading;
 
-import javax.sound.midi.Soundbank;
 import java.util.Scanner;
 
 public class Lab05_UniversalPrinter_Ex05 {
